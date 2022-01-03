@@ -1,12 +1,20 @@
-ABC
+ABC 
  
 feature2 changes included
 edit in feature1
 feature2 changes included
 
 edit in main 2
- 
+  
 
+feature2 changes included
+edit in feature1
+feature2 changes included
+
+edit in feature1
+feature2 changes included
+
+ 
 Main- edit in main 3
 
 feature1 edit1
